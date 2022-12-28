@@ -1,2 +1,3 @@
 FROM jenkins/jenkins:latest
-ENV JAVA_OPTS -Djenkins.install.runSetupWizard=true
+ENV JAVA_OPTS -Djenkins.install.runSetupWizard=true1
+
