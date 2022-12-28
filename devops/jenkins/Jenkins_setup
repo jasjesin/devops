@@ -1,3 +1,8 @@
-URL to setup Jenkins: https://www.digitalocean.com/community/tutorials/how-to-automate-jenkins-setup-with-docker-and-jenkins-configuration-as-code
+URL to setup Jenkins: 
+https://www.digitalocean.com/community/tutorials/how-to-automate-jenkins-setup-with-docker-and-jenkins-configuration-as-code
+https://octopus.com/blog/jenkins-docker-install-guide
+
 https://github.com/jasjesin/devops.git
+
 docker pull jasjesin/jenkins
+
